@@ -11,7 +11,3 @@ This project is a deep learning application that utilizes the ResNet50 architect
 - Predicts Indian celebrity lookalikes from input images.
 - Utilizes the powerful ResNet50 convolutional neural network.
 - Trained on a diverse dataset of 100 Indian celebrities.
-
-## Demo
-
-Include a link to a live demo or screenshots showcasing the project in action.
